@@ -1,13 +1,4 @@
-### Hi there 👋
-
-<!--
-**x2v0/x2v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# JavaScript ROOT
+# JavaScript ROOT
 
 The JSROOT project allows:
    - reading of binary and JSON ROOT files in JavaScript;
@@ -925,9 +916,3 @@ Many function names where adjusted to naming conventions. Like:
    - `JSROOT.CreateHistogram` -> `JSROOT.createHistogram`
    - `JSROOT.CreateTGraph` -> `JSROOT.createTGraph`
    - `JSROOT.Create` -> `JSROOT.create`
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
